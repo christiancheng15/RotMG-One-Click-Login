@@ -39,10 +39,7 @@ python main.py
 ```
 
 ## Output
-```bash
-python main.py
-```
-
+Upon running the script, you will see a list of accounts similar to the example below:
 ```
 Accounts:
 1. [Deca Rings] Testing | testing@gmail.com
